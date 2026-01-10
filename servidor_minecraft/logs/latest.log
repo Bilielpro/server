@@ -1,0 +1,393 @@
+[00:00:47] [Server thread/INFO]: Bilielpro08 lost connection: Disconnected
+[00:00:47] [Server thread/INFO]: Bilielpro08 left the game
+[00:00:52] [User Authenticator #9/INFO]: UUID of player Bilielpro08 is fa89e4a2-5da5-37e0-9d33-79348801f0b0
+[00:00:53] [Server thread/INFO]: Bilielpro08 joined the game
+[00:00:53] [Server thread/INFO]: Bilielpro08[/127.139.159.60:53851] logged in with entity id 20507 at ([overworld]-28.929817901708585, 73.0, 94.24995414703582)
+[00:05:15] [Server thread/INFO]: JANCrack8 issued server command: /tell altrex me voy a tirar a la lava si no me das armadura de hierro en 5 minutos
+[00:06:08] [Server thread/INFO]: Bilielpro08 issued server command: /kick romanloru por insultar al staff
+[00:06:08] [Server thread/INFO]: romanloru lost connection: por insultar al staff
+[00:06:08] [Server thread/INFO]: romanloru left the game
+[00:06:08] [Server thread/INFO]: [Bilielpro08: Kicked romanloru: por insultar al staff]
+[00:06:12] [User Authenticator #10/INFO]: UUID of player romanloru is 885c2341-e271-3d18-ae69-d9b370554456
+[00:06:12] [Server thread/INFO]: romanloru joined the game
+[00:06:12] [Server thread/INFO]: romanloru[/127.123.1.14:50615] logged in with entity id 24465 at ([overworld]-346.36636920361974, 37.0, -456.9652506855228)
+[00:06:33] [Server thread/INFO]: rmatees17 issued server command: /msg JANCrack8 ponte a gritar ''no hay pan pa tantos chorizos'' y tirate de un barranco
+[00:07:55] [Server thread/INFO]: romanloru has made the advancement [Acquire Hardware]
+[00:08:06] [Server thread/INFO]: Bilielpro08 issued server command: /tell romanloru
+[00:08:10] [Server thread/INFO]: rmatees17 has made the advancement [Sweet Dreams]
+[00:08:17] [Server thread/INFO]: romanloru has made the advancement [Sweet Dreams]
+[00:08:19] [Server thread/INFO]: Bilielpro08 lost connection: Disconnected
+[00:08:19] [Server thread/INFO]: Bilielpro08 left the game
+[00:08:21] [Server thread/INFO]: JANCrack8 lost connection: Disconnected
+[00:08:21] [Server thread/INFO]: JANCrack8 left the game
+[00:08:27] [User Authenticator #11/INFO]: UUID of player Bilielpro08 is fa89e4a2-5da5-37e0-9d33-79348801f0b0
+[00:08:28] [Server thread/INFO]: Bilielpro08 joined the game
+[00:08:28] [Server thread/INFO]: Bilielpro08[/127.139.159.60:43803] logged in with entity id 25833 at ([overworld]-435.5008327606502, 73.0, -413.5013266410025)
+[00:08:31] [Server thread/INFO]: Bilielpro08 lost connection: Disconnected
+[00:08:31] [Server thread/INFO]: Bilielpro08 left the game
+[00:08:34] [User Authenticator #11/INFO]: UUID of player JANCrack8 is fe38eef6-2f46-30b1-adc0-f71ea0e56c02
+[00:08:35] [Server thread/INFO]: JANCrack8 joined the game
+[00:08:35] [Server thread/INFO]: JANCrack8[/127.96.250.61:43079] logged in with entity id 25866 at ([overworld]110.33486447597537, 79.0, 249.4748543891609)
+[00:08:37] [User Authenticator #11/INFO]: UUID of player Bilielpro08 is fa89e4a2-5da5-37e0-9d33-79348801f0b0
+[00:08:38] [Server thread/INFO]: Bilielpro08 joined the game
+[00:08:38] [Server thread/INFO]: Bilielpro08[/127.139.159.60:41005] logged in with entity id 25929 at ([overworld]-435.5008327606502, 73.0, -413.5013266410025)
+[00:08:48] [Server thread/INFO]: Bilielpro08 issued server command: /tell romanloru hazme un escudo o te vas perma
+[00:10:22] [Server thread/INFO]: Bilielpro08 issued server command: /tellraw @a "FOTO PIES AL PRIVADO= DIAMANTES"
+[00:10:43] [Async Chat Thread - #8/INFO]: [Not Secure] <Bilielpro08> GAD
+[00:11:31] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate romanloru
+[00:11:36] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate romanloru
+[00:11:45] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy cancel
+[00:11:48] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate romanloru
+[00:12:00] [Server thread/INFO]: romanloru has made the advancement [Monster Hunter]
+[00:12:52] [Server thread/INFO]: Bilielpro08 issued server command: /kick rmatees17
+[00:12:52] [Server thread/INFO]: rmatees17 lost connection: Kicked by an operator
+[00:12:52] [Server thread/INFO]: rmatees17 left the game
+[00:12:52] [Server thread/INFO]: [Bilielpro08: Kicked rmatees17: Kicked by an operator]
+[00:12:55] [User Authenticator #12/INFO]: UUID of player rmatees17 is 90c96b75-48bf-31b1-95f7-d66df6913661
+[00:12:56] [Server thread/INFO]: rmatees17 joined the game
+[00:12:56] [Server thread/INFO]: rmatees17[/127.20.239.254:42789] logged in with entity id 29086 at ([overworld]-616.897999141129, 65.10131520987476, -386.0505497918299)
+[00:13:17] [Server thread/WARN]: rmatees17 moved too quickly! -10.122913924862814,1.0,-4.916863394289692
+[00:13:52] [Server thread/INFO]: Bilielpro08 issued server command: /kick romanloru
+[00:13:52] [Server thread/INFO]: romanloru lost connection: Kicked by an operator
+[00:13:53] [Server thread/INFO]: romanloru left the game
+[00:13:53] [Server thread/INFO]: [Bilielpro08: Kicked romanloru: Kicked by an operator]
+[00:13:55] [User Authenticator #12/INFO]: UUID of player romanloru is 885c2341-e271-3d18-ae69-d9b370554456
+[00:13:55] [Server thread/INFO]: romanloru joined the game
+[00:13:55] [Server thread/INFO]: romanloru[/127.123.1.14:46963] logged in with entity id 29839 at ([overworld]-349.39507793995114, 4.0, -420.3237841164767)
+[00:14:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:14:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:14:40] [Server thread/INFO]: [Fahare] Deleting folder ./world_nether
+[00:14:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:14:42] [Server thread/INFO]: Time elapsed: 1619 ms
+[00:14:42] [Server thread/INFO]: Regenerated world_nether
+[00:14:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:14:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:14:42] [Server thread/INFO]: [Fahare] Deleting folder ./world_the_end
+[00:14:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:14:43] [Server thread/INFO]: Time elapsed: 411 ms
+[00:14:43] [Server thread/INFO]: Regenerated world_the_end
+[00:14:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'overworld'
+[00:14:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'overworld'
+[00:14:43] [Server thread/INFO]: [Fahare] Deleting folder ./overworld
+[00:14:49] [Server thread/INFO]: Preparing start region for dimension fahare:overworld
+[00:14:53] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-130-b1b5d4c (MC: 1.21) ---
+[00:14:53] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[00:14:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:14:53] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:14:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:14:53] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:14:53] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: TIMED_WAITING
+[00:14:53] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.executeModerately(MinecraftServer.java:1446)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.prepareLevels(MinecraftServer.java:899)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.createWorld(CraftServer.java:1434)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.createWorld(Bukkit.java:838)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.WorldCreator.createWorld(WorldCreator.java:502)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare.deleteNextWorld(Fahare.java:220)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare.lambda$deleteNextWorld$5(Fahare.java:231)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare$$Lambda/0x0000709af131a7c8.run(Unknown Source)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000709af0c648b8.run(Unknown Source)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[00:14:53] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[00:14:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:14:53] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:14:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:14:53] [Server thread/INFO]: Time elapsed: 4482 ms
+[00:14:53] [Server thread/INFO]: Regenerated overworld
+[00:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
+[00:15:33] [Server thread/INFO]: Bilielpro08 issued server command: /kick JANCrack8
+[00:15:33] [Server thread/INFO]: JANCrack8 lost connection: Kicked by an operator
+[00:15:33] [Server thread/INFO]: JANCrack8 left the game
+[00:15:33] [Server thread/INFO]: [Bilielpro08: Kicked JANCrack8: Kicked by an operator]
+[00:15:38] [Server thread/INFO]: Bilielpro08 issued server command: /kick altrex
+[00:15:38] [Server thread/INFO]: altrex lost connection: Kicked by an operator
+[00:15:38] [Server thread/INFO]: altrex left the game
+[00:15:38] [Server thread/INFO]: [Bilielpro08: Kicked altrex: Kicked by an operator]
+[00:15:43] [User Authenticator #13/INFO]: UUID of player altrex is c645c943-6262-3883-b017-a6866fb2ae75
+[00:15:44] [Server thread/INFO]: altrex joined the game
+[00:15:44] [Server thread/INFO]: altrex[/127.120.185.157:51107] logged in with entity id 30967 at ([overworld]24.987335362286085, 64.0, -10.189378476630198)
+[00:15:56] [Server thread/INFO]: altrex lost connection: Disconnected
+[00:15:56] [Server thread/INFO]: altrex left the game
+[00:15:57] [User Authenticator #13/INFO]: UUID of player JANCrack8 is fe38eef6-2f46-30b1-adc0-f71ea0e56c02
+[00:15:58] [Server thread/INFO]: JANCrack8 joined the game
+[00:15:58] [Server thread/INFO]: JANCrack8[/127.96.250.61:53417] logged in with entity id 31012 at ([overworld]36.847254710073365, 64.0, -12.525048453503883)
+[00:15:59] [Server thread/INFO]: /127.96.250.61:39439 lost connection: Disconnected
+[00:17:53] [Async Chat Thread - #10/INFO]: [Not Secure] <rmatees17> ./findbuddy locate Bilielpro08
+[00:17:55] [Server thread/INFO]: romanloru issued server command: /findbuddy locate ja
+[00:18:31] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy cancel
+[00:18:43] [Server thread/INFO]: romanloru issued server command: /findbuddy cancel
+[00:18:58] [Server thread/INFO]: Bilielpro08 issued server command: /kick romanloru por encontrar una aldea
+[00:18:58] [Server thread/INFO]: romanloru lost connection: por encontrar una aldea
+[00:18:58] [Server thread/INFO]: romanloru left the game
+[00:18:58] [Server thread/INFO]: [Bilielpro08: Kicked romanloru: por encontrar una aldea]
+[00:19:00] [User Authenticator #14/INFO]: UUID of player romanloru is 885c2341-e271-3d18-ae69-d9b370554456
+[00:19:01] [Server thread/INFO]: romanloru joined the game
+[00:19:01] [Server thread/INFO]: romanloru[/127.123.1.14:54033] logged in with entity id 33080 at ([overworld]264.1346376938226, 61.10607455733136, -153.8739496067403)
+[00:19:15] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate romanloru
+[00:20:01] [Server thread/INFO]: JANCrack8 issued server command: /findbuddy locate altrex
+[00:20:06] [Server thread/INFO]: JANCrack8 issued server command: /findbuddy locate romanloru
+[00:21:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:21:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:21:59] [Server thread/INFO]: [Fahare] Deleting folder ./world_nether
+[00:21:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:22:01] [Server thread/INFO]: Time elapsed: 1495 ms
+[00:22:01] [Server thread/INFO]: Regenerated world_nether
+[00:22:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:22:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:22:01] [Server thread/INFO]: [Fahare] Deleting folder ./world_the_end
+[00:22:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:22:02] [Server thread/INFO]: Time elapsed: 408 ms
+[00:22:02] [Server thread/INFO]: Regenerated world_the_end
+[00:22:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'overworld'
+[00:22:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'overworld'
+[00:22:02] [Server thread/INFO]: [Fahare] Deleting folder ./overworld
+[00:22:07] [Server thread/INFO]: Preparing start region for dimension fahare:overworld
+[00:22:12] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-130-b1b5d4c (MC: 1.21) ---
+[00:22:12] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[00:22:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:22:12] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:22:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:22:12] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:22:12] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: TIMED_WAITING
+[00:22:12] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.executeModerately(MinecraftServer.java:1446)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.prepareLevels(MinecraftServer.java:899)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.createWorld(CraftServer.java:1434)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.createWorld(Bukkit.java:838)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		org.bukkit.WorldCreator.createWorld(WorldCreator.java:502)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare.deleteNextWorld(Fahare.java:220)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare.lambda$deleteNextWorld$5(Fahare.java:231)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare$$Lambda/0x0000709af131a7c8.run(Unknown Source)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000709af0c648b8.run(Unknown Source)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[00:22:12] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[00:22:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:22:12] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:22:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:22:12] [Server thread/INFO]: Time elapsed: 4401 ms
+[00:22:12] [Server thread/INFO]: Regenerated overworld
+[00:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4415ms or 88 ticks behind
+[00:23:42] [Server thread/INFO]: Bilielpro08 issued server command: /summon minecraft:wither
+[00:23:42] [Server thread/INFO]: [Bilielpro08: Summoned new Wither]
+[00:24:24] [Server thread/INFO]: Bilielpro08 lost connection: Disconnected
+[00:24:24] [Server thread/INFO]: Bilielpro08 left the game
+[00:24:27] [User Authenticator #15/INFO]: UUID of player Bilielpro08 is fa89e4a2-5da5-37e0-9d33-79348801f0b0
+[00:24:27] [Server thread/INFO]: Bilielpro08 joined the game
+[00:24:27] [Server thread/INFO]: Bilielpro08[/127.139.159.60:41391] logged in with entity id 35488 at ([overworld]66.59610264027764, 68.0, 6.516486333846196)
+[00:24:51] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate JANCrack8
+[00:25:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:25:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:25:15] [Server thread/INFO]: [Fahare] Deleting folder ./world_nether
+[00:25:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:25:18] [Server thread/INFO]: Time elapsed: 1963 ms
+[00:25:18] [Server thread/INFO]: Regenerated world_nether
+[00:25:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:25:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:25:18] [Server thread/INFO]: [Fahare] Deleting folder ./world_the_end
+[00:25:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:25:18] [Server thread/INFO]: Time elapsed: 422 ms
+[00:25:18] [Server thread/INFO]: Regenerated world_the_end
+[00:25:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'overworld'
+[00:25:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'overworld'
+[00:25:18] [Server thread/INFO]: [Fahare] Deleting folder ./overworld
+[00:25:24] [Server thread/INFO]: Preparing start region for dimension fahare:overworld
+[00:25:28] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-130-b1b5d4c (MC: 1.21) ---
+[00:25:28] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[00:25:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:25:28] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:25:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:25:28] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:25:28] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: TIMED_WAITING
+[00:25:28] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.executeModerately(MinecraftServer.java:1446)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.prepareLevels(MinecraftServer.java:899)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.createWorld(CraftServer.java:1434)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.createWorld(Bukkit.java:838)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.WorldCreator.createWorld(WorldCreator.java:502)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare.deleteNextWorld(Fahare.java:220)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare.lambda$deleteNextWorld$5(Fahare.java:231)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare$$Lambda/0x0000709af131a7c8.run(Unknown Source)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000709af0c648b8.run(Unknown Source)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[00:25:28] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[00:25:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:25:28] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:25:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:25:28] [Server thread/INFO]: Time elapsed: 4305 ms
+[00:25:28] [Server thread/INFO]: Regenerated overworld
+[00:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
+[00:30:20] [Server thread/INFO]: JANCrack8 issued server command: /findbuddy locate romanloru
+[00:32:40] [Async Chat Thread - #12/INFO]: [Not Secure] <rmatees17> ./findbuddy locate Bilielpro08
+[00:32:44] [Server thread/INFO]: romanloru issued server command: /findbuddy locate bi
+[00:34:31] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate romanloru
+[00:34:38] [Server thread/INFO]: JANCrack8 issued server command: /findbuddy locate romanloru
+[00:35:41] [Server thread/INFO]: rmatees17 has made the advancement [Diamonds!]
+[00:35:46] [User Authenticator #16/INFO]: UUID of player altrex is c645c943-6262-3883-b017-a6866fb2ae75
+[00:35:47] [Server thread/INFO]: altrex joined the game
+[00:35:47] [Server thread/INFO]: altrex[/127.120.185.157:35537] logged in with entity id 41847 at ([overworld]0.0, 80.0, 0.0)
+[00:36:19] [Server thread/INFO]: altrex issued server command: /findbuddy locate romanloru
+[00:37:47] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy cancel
+[00:37:57] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate romanloru
+[00:41:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:41:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:41:42] [Server thread/INFO]: [Fahare] Deleting folder ./world_nether
+[00:41:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:41:44] [Server thread/INFO]: Time elapsed: 1452 ms
+[00:41:44] [Server thread/INFO]: Regenerated world_nether
+[00:41:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:41:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:41:44] [Server thread/INFO]: [Fahare] Deleting folder ./world_the_end
+[00:41:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:41:45] [Server thread/INFO]: Time elapsed: 379 ms
+[00:41:45] [Server thread/INFO]: Regenerated world_the_end
+[00:41:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'overworld'
+[00:41:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'overworld'
+[00:41:45] [Server thread/INFO]: [Fahare] Deleting folder ./overworld
+[00:41:51] [Server thread/INFO]: Preparing start region for dimension fahare:overworld
+[00:41:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Bilielpro08> flipo
+[00:41:55] [Server thread/INFO]: Time elapsed: 4000 ms
+[00:41:55] [Server thread/INFO]: Regenerated overworld
+[00:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4015ms or 80 ticks behind
+[00:42:24] [Server thread/INFO]: altrex lost connection: Disconnected
+[00:42:24] [Server thread/INFO]: altrex left the game
+[00:44:06] [User Authenticator #17/INFO]: UUID of player altrex is c645c943-6262-3883-b017-a6866fb2ae75
+[00:44:07] [Server thread/INFO]: altrex joined the game
+[00:44:07] [Server thread/INFO]: altrex[/127.120.185.157:55509] logged in with entity id 44609 at ([overworld]42.69999998807907, 69.0, -23.500934156070173)
+[00:44:23] [Server thread/INFO]: Bilielpro08 issued server command: /kick JANCrack8
+[00:44:23] [Server thread/INFO]: JANCrack8 lost connection: Kicked by an operator
+[00:44:23] [Server thread/INFO]: JANCrack8 left the game
+[00:44:23] [Server thread/INFO]: [Bilielpro08: Kicked JANCrack8: Kicked by an operator]
+[00:44:25] [Server thread/INFO]: Bilielpro08 issued server command: /kick romanloru
+[00:44:25] [Server thread/INFO]: romanloru lost connection: Kicked by an operator
+[00:44:25] [Server thread/INFO]: romanloru left the game
+[00:44:25] [Server thread/INFO]: [Bilielpro08: Kicked romanloru: Kicked by an operator]
+[00:44:27] [User Authenticator #17/INFO]: UUID of player JANCrack8 is fe38eef6-2f46-30b1-adc0-f71ea0e56c02
+[00:44:27] [Server thread/INFO]: JANCrack8 joined the game
+[00:44:27] [Server thread/INFO]: JANCrack8[/127.96.250.61:38421] logged in with entity id 44681 at ([overworld]53.31968149610181, 70.8447679954834, -12.755383988810525)
+[00:44:28] [User Authenticator #17/INFO]: UUID of player romanloru is 885c2341-e271-3d18-ae69-d9b370554456
+[00:44:28] [Server thread/INFO]: romanloru joined the game
+[00:44:28] [Server thread/INFO]: romanloru[/127.123.1.14:52201] logged in with entity id 44683 at ([overworld]-44.52974963506101, 77.0, 4.3967830642005445)
+[00:45:22] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate romanloru
+[00:46:28] [Server thread/INFO]: romanloru issued server command: /findbuddy locate JANCrack8
+[00:47:13] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy cancel
+[00:47:19] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy locate romanloru
+[00:47:53] [Server thread/INFO]: Bilielpro08 issued server command: /findbuddy cancel
+[00:49:03] [Server thread/INFO]: altrex issued server command: /findbuddy locate romanloru
+[00:49:41] [Server thread/INFO]: rmatees17 issued server command: /findbuddy locate Bilielpro08
+[00:51:34] [Server thread/INFO]: altrex issued server command: /findbuddy locate romanloru
+[00:52:33] [Server thread/INFO]: Bilielpro08 lost connection: Disconnected
+[00:52:33] [Server thread/INFO]: Bilielpro08 left the game
+[00:52:56] [Server thread/INFO]: altrex lost connection: Disconnected
+[00:52:56] [Server thread/INFO]: altrex left the game
+[00:53:00] [Server thread/INFO]: JANCrack8 lost connection: Disconnected
+[00:53:00] [Server thread/INFO]: JANCrack8 left the game
+[00:53:04] [User Authenticator #18/INFO]: UUID of player JANCrack8 is fe38eef6-2f46-30b1-adc0-f71ea0e56c02
+[00:53:05] [Server thread/INFO]: JANCrack8 joined the game
+[00:53:05] [Server thread/INFO]: JANCrack8[/127.96.250.61:52335] logged in with entity id 49492 at ([overworld]-43.56060482535415, 69.0, 48.514485009143215)
+[00:53:07] [User Authenticator #18/INFO]: UUID of player altrex is c645c943-6262-3883-b017-a6866fb2ae75
+[00:53:08] [Server thread/INFO]: altrex joined the game
+[00:53:08] [Server thread/INFO]: altrex[/127.120.185.157:41973] logged in with entity id 49530 at ([overworld]-168.103787664135, 63.0, 93.45109608002156)
+[00:53:08] [User Authenticator #18/INFO]: UUID of player Bilielpro08 is fa89e4a2-5da5-37e0-9d33-79348801f0b0
+[00:53:09] [Server thread/INFO]: Bilielpro08 joined the game
+[00:53:09] [Server thread/INFO]: Bilielpro08[/127.139.159.60:43643] logged in with entity id 49533 at ([overworld]-224.70679580726843, 75.0, 158.3509011804357)
+[00:55:02] [Server thread/INFO]: altrex issued server command: /findbuddy locate romanloru
+[00:57:25] [Server thread/INFO]: rmatees17 issued server command: /waypoint set
+[01:00:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:00:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:00:39] [Server thread/INFO]: [Fahare] Deleting folder ./world_nether
+[01:00:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:00:40] [Server thread/INFO]: Time elapsed: 1492 ms
+[01:00:40] [Server thread/INFO]: Regenerated world_nether
+[01:00:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:00:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:00:41] [Server thread/INFO]: [Fahare] Deleting folder ./world_the_end
+[01:00:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:00:41] [Server thread/INFO]: Time elapsed: 397 ms
+[01:00:41] [Server thread/INFO]: Regenerated world_the_end
+[01:00:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'overworld'
+[01:00:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'overworld'
+[01:00:41] [Server thread/INFO]: [Fahare] Deleting folder ./overworld
+[01:00:47] [Server thread/INFO]: Preparing start region for dimension fahare:overworld
+[01:00:51] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-130-b1b5d4c (MC: 1.21) ---
+[01:00:51] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[01:00:51] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:00:51] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[01:00:51] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:00:51] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[01:00:51] [Paper Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: TIMED_WAITING
+[01:00:51] [Paper Watchdog Thread/ERROR]: 	Stack:
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.executeModerately(MinecraftServer.java:1446)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.prepareLevels(MinecraftServer.java:899)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.createWorld(CraftServer.java:1434)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		org.bukkit.Bukkit.createWorld(Bukkit.java:838)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		org.bukkit.WorldCreator.createWorld(WorldCreator.java:502)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare.deleteNextWorld(Fahare.java:220)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare.lambda$deleteNextWorld$5(Fahare.java:231)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		Fahare-1.2.1 (1).jar//dev.qixils.fahare.Fahare$$Lambda/0x0000709af131a7c8.run(Unknown Source)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000709af0c648b8.run(Unknown Source)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[01:00:51] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[01:00:51] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:00:51] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[01:00:51] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:00:51] [Server thread/INFO]: Time elapsed: 4882 ms
+[01:00:51] [Server thread/INFO]: Regenerated overworld
+[01:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4900ms or 98 ticks behind
+[01:02:51] [Server thread/INFO]: Bilielpro08 lost connection: Disconnected
+[01:02:51] [Server thread/INFO]: Bilielpro08 left the game
+[01:03:24] [Server thread/INFO]: You whisper to rmatees17: lol
+[01:03:24] [Server thread/INFO]: You whisper to romanloru: lol
+[01:03:24] [Server thread/INFO]: You whisper to JANCrack8: lol
+[01:03:24] [Server thread/INFO]: You whisper to altrex: lol
+[01:03:30] [Async Chat Thread - #16/INFO]: [Not Secure] <JANCrack8> bilal pajero
+[01:03:56] [Server thread/INFO]: JANCrack8 issued server command: /findbuddy locate altrex
+[01:04:28] [Server thread/INFO]: altrex lost connection: Disconnected
+[01:04:28] [Server thread/INFO]: altrex left the game
+[01:05:53] [Server thread/INFO]: JANCrack8 lost connection: Disconnected
+[01:05:53] [Server thread/INFO]: JANCrack8 left the game
+[01:06:52] [Server thread/WARN]: romanloru was kicked for floating too long!
+[01:06:52] [Server thread/INFO]: romanloru lost connection: Flying is not enabled on this server
+[01:06:52] [Server thread/INFO]: romanloru left the game
+[01:06:58] [User Authenticator #19/INFO]: UUID of player romanloru is 885c2341-e271-3d18-ae69-d9b370554456
+[01:06:58] [Server thread/INFO]: romanloru joined the game
+[01:06:58] [Server thread/INFO]: romanloru[/127.123.1.14:42083] logged in with entity id 55673 at ([overworld]-152.5818807167328, 64.84610397459554, 59.31282211402189)
+[01:08:26] [Server thread/INFO]: romanloru lost connection: Disconnected
+[01:08:26] [Server thread/INFO]: romanloru left the game
+[01:18:28] [Server thread/WARN]: rmatees17 moved too quickly! -1.2421435483992695,0.0,12.845168630907267
+[01:21:25] [Server thread/INFO]: rmatees17 has made the advancement [Cover Me with Diamonds]

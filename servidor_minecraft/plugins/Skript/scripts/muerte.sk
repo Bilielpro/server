@@ -1,0 +1,5 @@
+# Oculta los mensajes de muerte sin impedir la muerte
+on death of a player:
+    set death message to "" # Borra el mensaje global
+
+    
